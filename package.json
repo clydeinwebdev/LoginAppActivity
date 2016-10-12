@@ -1,0 +1,19 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clydeinwebdev/LoginAppActivity.git"
+  },
+  "author": "Clyde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clydeinwebdev/LoginAppActivity/issues"
+  },
+  "homepage": "https://github.com/clydeinwebdev/LoginAppActivity#readme"
+}
