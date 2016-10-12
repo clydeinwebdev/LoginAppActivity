@@ -19,8 +19,14 @@ Github Links
 </table>
 <hr/>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Name          | Github Link                       | Login Repo Name            |
+| ------------- |:---------------------------------:| --------------------------:|
+| Clyde         | https://github.com/clydeinwebdev/ | LoginAppActivity           |
+| Joses         | https://github.com/JosesLu/ 		| NodeLoginProject           |
+| Paul          | https://github.com/PaulSango/  	| NodeExpressLRjs            |
+| Bernard       | https://github.com/ImBernard/  	| Programming6               |
+| Gel           | https://github.com/fatassbudha/  	| LoginRegister              |
+| Dave          | https://github.com/VongolaDev/  	| DevLogInApp                |
+| Jian          | https://github.com/JiiianTan/  	| WebServer                  |
+| Ameer         | https://github.com/nexusaj09/  	| cs305                      |
+| Vernom        | https://github.com/MaCcoyID/  	| LoginAppActivity           |
